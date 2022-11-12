@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18.828" viewBox="0 0 18 18.828">
+  <g id="arrow-rigth" transform="translate(1 1.414)">
+    <path id="line" d="M315.67,30h16" transform="translate(-315.67 -22)" fill="none" stroke="#19324b" stroke-linecap="round" stroke-width="2"/>
+    <path id="flash" d="M450,3508l8-8,8,8" transform="translate(3516 -450) rotate(90)" fill="none" stroke="#19324b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.414" height="17.414" viewBox="0 0 17.414 17.414">
+  <g id="search_" data-name="search " transform="translate(-18 -42)">
+    <path id="handle" d="M35.362,6059.362l-5-5" transform="translate(-1.362 -6001.362)" fill="none" stroke="#a0b4c8" stroke-linecap="round" stroke-width="2"/>
+    <g id="lens" transform="translate(18 42)" fill="none" stroke="#a0b4c8" stroke-width="2">
+      <circle cx="6.75" cy="6.75" r="6.75" stroke="none"/>
+      <circle cx="6.75" cy="6.75" r="5.75" fill="none"/>
+    </g>
+  </g>
+</svg>

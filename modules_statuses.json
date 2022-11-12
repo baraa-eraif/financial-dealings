@@ -1,0 +1,6 @@
+{
+    "API": true,
+    "Core": true,
+    "Administrative": true,
+    "Seller": true
+}
